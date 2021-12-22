@@ -19,7 +19,7 @@ body {
     padding: 20px 40px;
     box-shadow: 0 2px 18px rgba(0, 0, 0, 0.307);
     cursor: pointer;
-    transition: 0.2s;
+    transition: 0.5s;
   }
   .app:hover {
     transform: scale(1.01);
